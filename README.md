@@ -1,3 +1,5 @@
+All the source code for UGP work is in the Scratch Subdirectory.
+
 # The Network Simulator, Version 3
 
 
